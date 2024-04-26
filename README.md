@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/TypeORM-E0234E?style=flat-square&logo=TypeORM&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=jpa&logoColor=white"/></br>
 
+  <img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=junit5&logoColor=white"/></br>
+
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
