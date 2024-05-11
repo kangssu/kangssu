@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></br></br>
 
-  <h3>🌞 curiosity...</h3>
+  <h3>🌞 Curiosity...</h3>
   <p>https://github.com/kangssu/curiosity</p></br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangssu&layout=compact"></br>
